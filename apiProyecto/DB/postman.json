@@ -1,0 +1,416 @@
+{
+    "collection": {
+        "info": {
+            "_postman_id": "d39fd5cb-ac0f-4ef4-aedc-8240382288ad",
+            "name": "Proyecto Stokify",
+            "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+            "updatedAt": "2024-03-01T20:01:19.000Z",
+            "uid": "32870838-d39fd5cb-ac0f-4ef4-aedc-8240382288ad",
+            "createdAt": null,
+            "lastUpdatedBy": null
+        },
+        "item": [
+            {
+                "name": "Producto",
+                "item": [
+                    {
+                        "name": "Categoria Subcategoria",
+                        "item": [
+                            {
+                                "name": "Categoria",
+                                "id": "e092fecf-188f-4b36-aa3f-05eab04c75e5",
+                                "protocolProfileBehavior": {
+                                    "disableBodyPruning": true
+                                },
+                                "request": {
+                                    "method": "GET",
+                                    "header": [],
+                                    "url": {
+                                        "raw": "http://localhost:81/proyecto/controlador",
+                                        "protocol": "http",
+                                        "host": [
+                                            "localhost"
+                                        ],
+                                        "port": "81",
+                                        "path": [
+                                            "proyecto",
+                                            "controlador"
+                                        ]
+                                    }
+                                },
+                                "response": [],
+                                "uid": "32870838-e092fecf-188f-4b36-aa3f-05eab04c75e5"
+                            },
+                            {
+                                "name": "Categoria id",
+                                "id": "69bdee47-018e-45b7-9403-d53183552dac",
+                                "protocolProfileBehavior": {
+                                    "disableBodyPruning": true
+                                },
+                                "request": {
+                                    "method": "GET",
+                                    "header": [],
+                                    "url": {
+                                        "raw": "http://localhost:81/proyecto/controlador",
+                                        "protocol": "http",
+                                        "host": [
+                                            "localhost"
+                                        ],
+                                        "port": "81",
+                                        "path": [
+                                            "proyecto",
+                                            "controlador"
+                                        ]
+                                    }
+                                },
+                                "response": [],
+                                "uid": "32870838-69bdee47-018e-45b7-9403-d53183552dac"
+                            },
+                            {
+                                "name": "SubCategoria",
+                                "id": "a5838704-b1dc-4e07-bcf2-1ffe671c4c10",
+                                "protocolProfileBehavior": {
+                                    "disableBodyPruning": true
+                                },
+                                "request": {
+                                    "method": "GET",
+                                    "header": [],
+                                    "url": {
+                                        "raw": "http://localhost:81/proyecto/controlador",
+                                        "protocol": "http",
+                                        "host": [
+                                            "localhost"
+                                        ],
+                                        "port": "81",
+                                        "path": [
+                                            "proyecto",
+                                            "controlador"
+                                        ]
+                                    }
+                                },
+                                "response": [],
+                                "uid": "32870838-a5838704-b1dc-4e07-bcf2-1ffe671c4c10"
+                            },
+                            {
+                                "name": "SubCategoria id",
+                                "id": "53e174e5-1c66-4050-8042-3acd5e7a25de",
+                                "protocolProfileBehavior": {
+                                    "disableBodyPruning": true
+                                },
+                                "request": {
+                                    "method": "GET",
+                                    "header": [],
+                                    "url": {
+                                        "raw": "http://localhost:81/proyecto/controlador",
+                                        "protocol": "http",
+                                        "host": [
+                                            "localhost"
+                                        ],
+                                        "port": "81",
+                                        "path": [
+                                            "proyecto",
+                                            "controlador"
+                                        ]
+                                    }
+                                },
+                                "response": [],
+                                "uid": "32870838-53e174e5-1c66-4050-8042-3acd5e7a25de"
+                            }
+                        ],
+                        "id": "01b9e2fc-b7cc-4056-b20b-f248e2fec01b",
+                        "uid": "32870838-01b9e2fc-b7cc-4056-b20b-f248e2fec01b"
+                    },
+                    {
+                        "name": "Producto all",
+                        "id": "917d5a48-109c-4799-8004-bc24be16af23",
+                        "protocolProfileBehavior": {
+                            "disableBodyPruning": true
+                        },
+                        "request": {
+                            "method": "GET",
+                            "header": [],
+                            "url": {
+                                "raw": "http://localhost:81/proyecto/controlador",
+                                "protocol": "http",
+                                "host": [
+                                    "localhost"
+                                ],
+                                "port": "81",
+                                "path": [
+                                    "proyecto",
+                                    "controlador"
+                                ]
+                            }
+                        },
+                        "response": [],
+                        "uid": "32870838-917d5a48-109c-4799-8004-bc24be16af23"
+                    },
+                    {
+                        "name": "Producto Categoria",
+                        "id": "43ea5fcc-ea3d-4bde-b99a-03e6125a333c",
+                        "protocolProfileBehavior": {
+                            "disableBodyPruning": true
+                        },
+                        "request": {
+                            "method": "GET",
+                            "header": [],
+                            "url": {
+                                "raw": "http://localhost:81/proyecto/controlador",
+                                "protocol": "http",
+                                "host": [
+                                    "localhost"
+                                ],
+                                "port": "81",
+                                "path": [
+                                    "proyecto",
+                                    "controlador"
+                                ]
+                            }
+                        },
+                        "response": [],
+                        "uid": "32870838-43ea5fcc-ea3d-4bde-b99a-03e6125a333c"
+                    }
+                ],
+                "id": "338bede0-dfa7-4f71-98ee-60068603183d",
+                "uid": "32870838-338bede0-dfa7-4f71-98ee-60068603183d"
+            },
+            {
+                "name": "OrdenCompra",
+                "item": [
+                    {
+                        "name": "Orden Detalle",
+                        "item": [
+                            {
+                                "name": "Detalle OrdenCompra",
+                                "id": "ed85e90c-d949-4319-b795-dc581132190a",
+                                "protocolProfileBehavior": {
+                                    "disableBodyPruning": true
+                                },
+                                "request": {
+                                    "method": "GET",
+                                    "header": [],
+                                    "url": {
+                                        "raw": "http://localhost:81/proyecto/controlador",
+                                        "protocol": "http",
+                                        "host": [
+                                            "localhost"
+                                        ],
+                                        "port": "81",
+                                        "path": [
+                                            "proyecto",
+                                            "controlador"
+                                        ]
+                                    }
+                                },
+                                "response": [],
+                                "uid": "32870838-ed85e90c-d949-4319-b795-dc581132190a"
+                            },
+                            {
+                                "name": "Detalle OrdenCompra id",
+                                "id": "c910620d-aa2b-4ebf-a3df-dc3eafc3feb6",
+                                "protocolProfileBehavior": {
+                                    "disableBodyPruning": true
+                                },
+                                "request": {
+                                    "method": "GET",
+                                    "header": [],
+                                    "url": {
+                                        "raw": "http://localhost:81/proyecto/controlador",
+                                        "protocol": "http",
+                                        "host": [
+                                            "localhost"
+                                        ],
+                                        "port": "81",
+                                        "path": [
+                                            "proyecto",
+                                            "controlador"
+                                        ]
+                                    }
+                                },
+                                "response": [],
+                                "uid": "32870838-c910620d-aa2b-4ebf-a3df-dc3eafc3feb6"
+                            }
+                        ],
+                        "id": "8d557f97-c327-42e2-98d2-1551804fc302",
+                        "uid": "32870838-8d557f97-c327-42e2-98d2-1551804fc302"
+                    },
+                    {
+                        "name": "OrdenCompra",
+                        "id": "7627feec-a9c5-418c-aa31-3191387f5d58",
+                        "protocolProfileBehavior": {
+                            "disableBodyPruning": true
+                        },
+                        "request": {
+                            "method": "GET",
+                            "header": [],
+                            "url": {
+                                "raw": "http://localhost:81/proyecto/controlador",
+                                "protocol": "http",
+                                "host": [
+                                    "localhost"
+                                ],
+                                "port": "81",
+                                "path": [
+                                    "proyecto",
+                                    "controlador"
+                                ]
+                            }
+                        },
+                        "response": [],
+                        "uid": "32870838-7627feec-a9c5-418c-aa31-3191387f5d58"
+                    },
+                    {
+                        "name": "OrdenCompra id",
+                        "id": "d843c3d2-8bf3-4cef-98b3-451d4906d30f",
+                        "protocolProfileBehavior": {
+                            "disableBodyPruning": true
+                        },
+                        "request": {
+                            "method": "GET",
+                            "header": [],
+                            "url": {
+                                "raw": "http://localhost:81/proyecto/controlador",
+                                "protocol": "http",
+                                "host": [
+                                    "localhost"
+                                ],
+                                "port": "81",
+                                "path": [
+                                    "proyecto",
+                                    "controlador"
+                                ]
+                            }
+                        },
+                        "response": [],
+                        "uid": "32870838-d843c3d2-8bf3-4cef-98b3-451d4906d30f"
+                    }
+                ],
+                "id": "3312812d-378b-4fe5-a3a8-0875aee822f6",
+                "uid": "32870838-3312812d-378b-4fe5-a3a8-0875aee822f6"
+            },
+            {
+                "name": "Proveedor",
+                "item": [
+                    {
+                        "name": "Proveedor",
+                        "id": "e80d640a-32cc-4a13-9528-b4a6e490ffe6",
+                        "protocolProfileBehavior": {
+                            "disableBodyPruning": true
+                        },
+                        "request": {
+                            "method": "GET",
+                            "header": [],
+                            "url": {
+                                "raw": "http://localhost:81/proyecto/controlador",
+                                "protocol": "http",
+                                "host": [
+                                    "localhost"
+                                ],
+                                "port": "81",
+                                "path": [
+                                    "proyecto",
+                                    "controlador"
+                                ]
+                            }
+                        },
+                        "response": [],
+                        "uid": "32870838-e80d640a-32cc-4a13-9528-b4a6e490ffe6"
+                    },
+                    {
+                        "name": "Proveedor id",
+                        "id": "68a57516-4d5f-461a-87a4-d99283266f1d",
+                        "protocolProfileBehavior": {
+                            "disableBodyPruning": true
+                        },
+                        "request": {
+                            "method": "GET",
+                            "header": [],
+                            "url": {
+                                "raw": "http://localhost:81/proyecto/controlador",
+                                "protocol": "http",
+                                "host": [
+                                    "localhost"
+                                ],
+                                "port": "81",
+                                "path": [
+                                    "proyecto",
+                                    "controlador"
+                                ]
+                            }
+                        },
+                        "response": [],
+                        "uid": "32870838-68a57516-4d5f-461a-87a4-d99283266f1d"
+                    }
+                ],
+                "id": "dd28db5d-27ef-4725-ba1d-75a207cb7351",
+                "uid": "32870838-dd28db5d-27ef-4725-ba1d-75a207cb7351"
+            },
+            {
+                "name": "Bodega",
+                "item": [
+                    {
+                        "name": "Bodega",
+                        "id": "a747b35e-8554-44b1-8f2c-8a04f14ecc16",
+                        "protocolProfileBehavior": {
+                            "disableBodyPruning": true
+                        },
+                        "request": {
+                            "method": "GET",
+                            "header": []
+                        },
+                        "response": [],
+                        "uid": "32870838-a747b35e-8554-44b1-8f2c-8a04f14ecc16"
+                    },
+                    {
+                        "name": "Bodega id",
+                        "id": "d99f2261-689a-4e52-9350-5eacec1c5223",
+                        "protocolProfileBehavior": {
+                            "disableBodyPruning": true
+                        },
+                        "request": {
+                            "method": "GET",
+                            "header": []
+                        },
+                        "response": [],
+                        "uid": "32870838-d99f2261-689a-4e52-9350-5eacec1c5223"
+                    }
+                ],
+                "id": "6cc0ec74-d642-4f74-942a-730a45eee174",
+                "uid": "32870838-6cc0ec74-d642-4f74-942a-730a45eee174"
+            },
+            {
+                "name": "Usuario",
+                "item": [
+                    {
+                        "name": "Usuario",
+                        "id": "296793e5-e60b-4293-b5ac-ed47f751e131",
+                        "protocolProfileBehavior": {
+                            "disableBodyPruning": true
+                        },
+                        "request": {
+                            "method": "GET",
+                            "header": []
+                        },
+                        "response": [],
+                        "uid": "32870838-296793e5-e60b-4293-b5ac-ed47f751e131"
+                    },
+                    {
+                        "name": "Usuario id",
+                        "id": "3536f5e7-f6e3-4fde-9d6a-7e4ef15f20cc",
+                        "protocolProfileBehavior": {
+                            "disableBodyPruning": true
+                        },
+                        "request": {
+                            "method": "GET",
+                            "header": []
+                        },
+                        "response": [],
+                        "uid": "32870838-3536f5e7-f6e3-4fde-9d6a-7e4ef15f20cc"
+                    }
+                ],
+                "id": "5110b274-6600-4080-bfd0-9a90187d9565",
+                "uid": "32870838-5110b274-6600-4080-bfd0-9a90187d9565"
+            }
+        ]
+    }
+}
